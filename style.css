@@ -73,6 +73,12 @@ nav .hh button {
   text-align: center;
 }
 
+.box2 {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+}
+
 @media (max-width: 530px) {
   nav .hh {
     display: none;
@@ -95,5 +101,8 @@ nav .hh button {
     flex-direction: column;
     padding: 20px;
     row-gap: 20px;
+  }
+  .box2 {
+    flex-direction: column;
   }
 }/*# sourceMappingURL=style.css.map */

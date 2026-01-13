@@ -91,6 +91,13 @@ nav
     }
 }
 
+.box2
+{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+}
+
 
 
 
@@ -131,5 +138,10 @@ nav
         flex-direction: column;
         padding: 20px;
         row-gap: 20px;
+    }
+
+    .box2
+    {
+        flex-direction: column;
     }
 }
