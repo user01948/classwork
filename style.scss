@@ -98,6 +98,33 @@ nav
     display: flex;
 }
 
+.jj
+{
+    background-image: url(./wave\ 1.png);
+    height: 824px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    .jdjjk
+    {
+        max-width: 1200px;
+        margin: auto;
+        text-align: center;
+
+        .ueu
+        {
+            margin-top: 300px;
+            color: #002265;
+        }
+
+        .flb
+        {
+            margin-top: 50px;
+        }
+    }
+}
+
 
 
 
@@ -143,5 +170,17 @@ nav
     .box2
     {
         flex-direction: column;
+    }
+    .ueu
+    {
+        position: absolute;
+        top: 3100px;
+        left: 100px;
+    }
+    .flb
+    {
+        position: absolute;
+        top: 3200px;
+        left: 60px;
     }
 }

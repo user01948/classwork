@@ -79,6 +79,26 @@ nav .hh button {
   display: flex;
 }
 
+.jj {
+  background-image: url(./wave\ 1.png);
+  height: 824px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.jj .jdjjk {
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+.jj .jdjjk .ueu {
+  margin-top: 300px;
+  color: #002265;
+}
+.jj .jdjjk .flb {
+  margin-top: 50px;
+}
+
 @media (max-width: 530px) {
   nav .hh {
     display: none;
@@ -104,5 +124,15 @@ nav .hh button {
   }
   .box2 {
     flex-direction: column;
+  }
+  .ueu {
+    position: absolute;
+    top: 3100px;
+    left: 100px;
+  }
+  .flb {
+    position: absolute;
+    top: 3200px;
+    left: 60px;
   }
 }/*# sourceMappingURL=style.css.map */
